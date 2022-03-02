@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practicaComparadorJSONTest.JSONMatcherTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-03-02T06:34:09" hostname="SANTIAGO" time="0.07">
+  <properties/>
+  <testcase name="verifyJSONMatcher1()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.039"/>
+  <testcase name="verifyJSONMatcher2()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.017"/>
+  <testcase name="verifyJSONMatcher3()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.005"/>
+  <testcase name="verifyJSONMatcher4()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.003"/>
+  <testcase name="verifyJSONMatcher5()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.001"/>
+  <testcase name="verifyJSONMatcher6()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.001"/>
+  <testcase name="verifyJSONMatcher7()" classname="practicaComparadorJSONTest.JSONMatcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
